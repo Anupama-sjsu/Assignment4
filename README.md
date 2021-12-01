@@ -2,19 +2,19 @@
 
 ## **K-Means Clustering**
 
-### K-means is a centroid-based or partition-based clustering algorithm.  This algorithm partitions all the points in the sample space into K groups of similarity. The similarity is usually measured using Euclidian Distance .
+#### K-means is a centroid-based or partition-based clustering algorithm.  This algorithm partitions all the points in the sample space into K groups of similarity. The similarity is usually measured using Euclidian Distance .
 
 ## **Hierarchical Clustering**
 
-### Hierarchical clustering also known as hierarchical cluster analysis (HCA) is also a method of cluster analysis which seeks to build a hierarchy of clusters without having fixed number of cluster. 
+#### Hierarchical clustering also known as hierarchical cluster analysis (HCA) is also a method of cluster analysis which seeks to build a hierarchy of clusters without having fixed number of cluster. 
 
-#**GMM Clustering**
+## **GMM Clustering**
 
-### As its name implies, each cluster is modelled according to a different Gaussian distribution.
+#### As its name implies, each cluster is modelled according to a different Gaussian distribution.
 
 ## **DB Scan Clustering using pycaret library**
 
-### DBScan is a density-based clustering algorithm. The key fact of this algorithm is that the neighbourhood of each point in a cluster which is within a given radius (R) must have a minimum number of points (M).
+#### DBScan is a density-based clustering algorithm. The key fact of this algorithm is that the neighbourhood of each point in a cluster which is within a given radius (R) must have a minimum number of points (M).
 
 ## **Conclusion:**
 
